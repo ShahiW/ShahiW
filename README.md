@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="mailto:shahiw@posto.de?subject=Hello%20from%20github">
-    <img src="https://img.shields.io/badge/-Posteo-brightgreen?style=flat-square&logo=Posteo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Posteo-brightgreen?style=flat-square&logo=posteo&logoColor=white"/>
   </a>
 </div>
 
