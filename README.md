@@ -19,6 +19,7 @@
 ## I'm Shahi, a data practitioner trainee at neuefische. 
 ### My repos: 
 - [EDA Project](https://github.com/ShahiW/eda_project_housing)
+- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi)
 
 <br>
 
