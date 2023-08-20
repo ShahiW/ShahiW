@@ -45,7 +45,7 @@ After graduating I started learning __Javascript__, __HTML__ and __CSS__ and wor
 - 📚 I love reading books and standup comedy. (I love to laugh!)
 - 🎵 I can't live without music (preferably something near 200 BPM)🤘
 - I ❤️ 🐧
-- What I want to learn next: Django, Linux administration and (in the hopefully not too far future)  Kivy!  
+- What I want to learn next: Django, Linux administration and (in the hopefully not too far future)  Kivy! :computer:  
 
 <br>
 
