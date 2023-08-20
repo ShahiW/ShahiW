@@ -34,7 +34,7 @@ I studied german language and literature at the LMU in Munich.
 <br>
 
 
-After graduating I started learning __Javascript__, __HTML__ and __CSS__ and worked for a short while as an intern in an advertising agency in Hamburg. Then my focus shifted to web development and I learned __Python__. At neuefische I learned __Git/GitHub__, __SQL__, __Pandas__, __Numpy__, __Visualization (MatplotLib, Plotly, Seaborn)__, __web application streamlit__ and __Machine Learning__ (Regression models, clustering, KNN, ...). 
+After graduating I started learning __Javascript__, __HTML__ and __CSS__ and worked for a short while as an intern in an advertising agency in Hamburg. Then my focus shifted to web development and I learned __Python__. At neuefische I learned __Git/GitHub__, __SQL__, __Pandas__, __Numpy__, __Visualization (MatplotLib, Plotly, Seaborn)__, __web application streamlit__, __Machine Learning__ (Regression models, clustering, KNN, ...), __FAST APIs__ and working with __Tableau__. 
 
 <br>
 
