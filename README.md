@@ -38,14 +38,12 @@ After graduating I started learning __Javascript__, __HTML__ and __CSS__ and wor
 
 <br>
 
-- I’m currently working on a Practice Management Software. 🔭 
--  I’m currently learning to build a web service with Flask AppBuilder. 🌱
+- I’m currently working on a Web Application using Flask App Builder. 🔭 
 - Ask me about the depiction of wise women in medieval literature. 💬 
 - Fun fact about me: I can't get enough of esacape games! ⚡ 
 - I love reading books and standup comedy. (I love to laugh!) 📚 
 - I can't live without music (preferably something near 200 BPM)🤘🎵 
 - I ❤️ 🐧
-- What I want to learn next: Django, Linux administration and (in the hopefully not too far future)  Kivy! :computer:  
 
 <br>
 
