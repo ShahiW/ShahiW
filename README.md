@@ -19,7 +19,8 @@
 ## I'm Shahi, a data practitioner trainee at neuefische. 
 ### My repos: 
 - [EDA Project](https://github.com/ShahiW/eda_project_housing)
-- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi)
+- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi) (Group work)
+- [MOOSIC - Mood based music recommendations system](https://github.com/ShahiW/mood_music_recommendation_system) (Group work - RhythmBytes Engineers)
 
 <br>
 
