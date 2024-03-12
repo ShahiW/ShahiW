@@ -17,10 +17,11 @@
 
 ## Hello! 
 ## I'm Shahi, a data practitioner 
-### My repos: 
-- [EDA Project](https://github.com/ShahiW/eda_project_housing)
-- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi) (Group work)
-- [MOOSIC](https://github.com/ShahiW/moosic/tree/main) (Group work - RhythmBytes Engineers)
+### My repos: oldest to newest
+- [EDA Project](https://github.com/ShahiW/eda_project_housing) (Data Practizioner Bootcamp)
+- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi) (DAta Practitioner Bootcamp - Group work)
+- [MOOSIC](https://github.com/ShahiW/moosic/tree/main) (Data Practitioner Bootcamp - Group work)
+- [Learning App](https://github.com/ShahiW/LearningApp) (Django Project)
 
 <br>
 
