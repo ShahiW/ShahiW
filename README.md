@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="mailto:shahiw@posto.de?subject=Hello%20from%20github">
-    <img src="https://img.shields.io/badge/-Mail-brightgreen?style=flat-square&logo=Posteo&logoColor=white" width=50/>
+    <img src="https://img.shields.io/badge/-Mail-brightgreen?style=flat-square&logo=Posteo&logoColor=white" width=50 border-radius: 25px />
   </a>
 </div>
 
