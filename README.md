@@ -15,7 +15,7 @@
 
 <br>
 
-## Hello! I'm Shahi, a web developer, certified data practitioner and pythonista. 
+## Hi, I'm Shahi, a web developer, certified data practitioner and pythonista 
 
 ### My repos: oldest to newest
 - [EDA Project](https://github.com/ShahiW/eda_project_housing) (Data Practizioner Bootcamp)
