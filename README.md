@@ -17,7 +17,7 @@
 
 ## Hi, I'm Shahi. I'm a Pythonista, Web Developer and Data Practitioner
 
-### My repos: oldest to newest
+### My projects: oldest to newest
 - [EDA Project](https://github.com/ShahiW/eda_project_housing) (Data Practizioner Bootcamp)
 - [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi) (DAta Practitioner Bootcamp - Group work)
 - [MOOSIC](https://github.com/ShahiW/moosic/tree/main) (Data Practitioner Bootcamp - Group work)
