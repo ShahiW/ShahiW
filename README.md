@@ -19,7 +19,7 @@
 
 ### My projects: oldest to newest
 - [EDA Project](https://github.com/ShahiW/eda_project_housing) (Data Practizioner Bootcamp)
-- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi) (DAta Practitioner Bootcamp - Group work)
+- [Financial Inclusion Group Project](https://github.com/ShahiW/Financial-Inclusion-Project/tree/shahi) (Data Practitioner Bootcamp - Group work)
 - [MOOSIC](https://github.com/ShahiW/moosic/tree/main) (Data Practitioner Bootcamp - Group work)
 - [Learning App](https://github.com/ShahiW/LearningApp) (Django Project - in progress)
 
