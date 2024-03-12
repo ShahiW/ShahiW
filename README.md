@@ -30,8 +30,8 @@
 
 ### Short Intro:
 
-I have a linguistics background. 
-I studied german language and literature at the LMU in Munich. 
+I have a linguistics background. <br>
+I have a Master of Arts in german medieval literature, modern german literature and slavic philology from the Ludwig-Maximilians-University (LMU) Munich. 
 
 <br>
 
